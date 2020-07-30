@@ -2,6 +2,7 @@
     <img alt="Óleo de Macaco" src="https://i.ytimg.com/vi/Csdg0lQhA5I/hqdefault.jpg"/>
     <br>
     Bot do Óleo de Macaco
+    <br>
     Node.js | Discord.js
 </h1>
 
