@@ -9,11 +9,11 @@
 Literalmente o que o nome diz...
 
 # Funções
-> Comandos
+## Comandos
 !oleo: Entra no canal de voz e toca o áudio
 !meianoite: Envia uma mensagem no canal de voz que foi solicitado
 
-> Outros
+## Outros
 Boas-vindas: Dá boas-vindas a quem entrar no servidor
 
 ---
