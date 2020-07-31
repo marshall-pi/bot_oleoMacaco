@@ -11,6 +11,8 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
-    "ffmpeg-static": "^4.2.6"
+    "ffmpeg-static": "^4.2.6",
+    "fs": "0.0.1-security",
+    "ytdl-core": "^3.2.0"
   }
 }

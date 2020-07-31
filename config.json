@@ -1,4 +1,6 @@
 {
-    "prefix": "!",
-    "token": "tokenHere"
+    "prefix": "&",
+    "token": "NzM4MjQ4OTc3NzY1MzY3ODE4.XyJJ8A.OYZ1L6_0ZEMJgWjnxdQIf24FzO0",
+    "link": "https://discordapp.com/oauth2/authorize?client_id=738248977765367818&scope=bot&permissions=36883456",
+    "version": "0.0.5"
 }
